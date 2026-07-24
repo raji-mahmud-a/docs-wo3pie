@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-5f8fhp.hartawin.space/sitemap.xml
